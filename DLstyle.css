@@ -40,7 +40,7 @@ header {
 	margin: 0px;
 	padding: 10px;
 	z-index: 10;
-	background-image: url("DL_Images/Platoari.jpg");
+	background-image: url("dl_images/platoari.jpg");
 }
 #nav {
 	padding: 10px;
@@ -53,4 +53,17 @@ li {
 }
 body {
 	margin-top: 275px;
+}
+.question {
+	color: #C7160D;
+}
+h3 {
+	color: #E3A6A6;
+	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
+	text-align: center;
+}
+h4 {
+	color: #E3A6A6;
+	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
+	text-align: center;
 }
