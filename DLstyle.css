@@ -47,8 +47,6 @@ header {
 	padding: 10px;
 	margin: 10px;
 	text-align: center;
-	font-size: 1.5em;
-	color: #C7160D; 
 }
 li {
 	display: inline;
@@ -71,4 +69,15 @@ h4 {
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 	font-size: 2.25em;
+}
+a {
+	font-size: 1.5em;
+	color: #C7160D; 
+	font-weight: bold;
+}
+a:link {
+	color: #E3A6A6;
+}
+a:visited {
+	color: #F0F2C6;
 }
