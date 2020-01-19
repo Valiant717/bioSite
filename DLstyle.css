@@ -3,7 +3,7 @@ body {
 	color: #F0F2C6
 }
 h1 {
-	color: #E3A6A6;
+	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 	font-size: 3.375em;
@@ -48,7 +48,7 @@ header {
 	margin: 10px;
 	text-align: center;
 	font-size: 1.5em;
-	color: #282931; 
+	color: #C7160D; 
 }
 li {
 	display: inline;
