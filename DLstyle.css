@@ -3,13 +3,13 @@ body {
 	color: #F0F2C6
 }
 h1 {
-	color: #C7160D;
+	color: #E3A6A6;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 	font-size: 3.375em;
 }
 h2 {
-	color: #E3A6A6;
+	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 }
@@ -55,15 +55,15 @@ body {
 	margin-top: 275px;
 }
 .question {
-	color: #C7160D;
+	color: #E3A6A6;
 }
 h3 {
-	color: #E3A6A6;
+	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 }
 h4 {
-	color: #E3A6A6;
+	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
 }
