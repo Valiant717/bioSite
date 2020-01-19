@@ -6,12 +6,13 @@ h1 {
 	color: #E3A6A6;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
-	font-size: 3.375em;
+	font-size: 5.063em;
 }
 h2 {
 	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
+	font-size: 3.375em;
 }
 p {
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
@@ -46,6 +47,7 @@ header {
 	padding: 10px;
 	margin: 10px;
 	text-align: center;
+	font-size: 3.375em;
 }
 li {
 	display: inline;
@@ -60,10 +62,12 @@ body {
 h3 {
 	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
-	text-align: center;
+	text-align: center;;
+	font-size: 3.375em
 }
 h4 {
 	color: #C7160D;
 	font-family: 'Courier Prime', monospace, 'Questrial', sans-serif, 'Zilla Slab', serif;
 	text-align: center;
+	font-size: 3.375em;
 }
