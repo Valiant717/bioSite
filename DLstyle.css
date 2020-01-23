@@ -1,6 +1,8 @@
 body {
 	background-color: #282931;
-	color: #F0F2C6
+	color: #F0F2C6;
+	padding-left: 50px;
+	padding-right: 50px;
 }
 h1 {
 	color: #C7160D;
